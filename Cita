@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Iñigo"
+  given-names: "Martínez Ciriza"
+  
+title: "Código TFG"
+version: 1.0.0
+date-released: 14-05-2024
+url: "https://github.com/InigoMartinezCiriza/Codigo_TFG/tree/main"
